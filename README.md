@@ -1,2 +1,6 @@
 # Academic-Python-Project
-This is a python academic project that require us to code a simple interface for patient regstration and administration into the vaccination centre. It also contains search patients and patients statistics functions. This is an individual assignment with guidance from StackOverflow. There is no UI/UX, databases, etc inside this project.  
+This is a python project developed by 3 persons
+This is a simple system for patient regstration and administration into the vaccination centre
+This system contains several functions like search patients, patients statistics functions and more
+There is no UI/UX, linked databases, etc inside this project, only text files are being used  
+To run the system, please import the all the files and placed inside PyCharm python files
