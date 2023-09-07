@@ -1,0 +1,16 @@
+JA0000; JASON; VC2; EC; Completed Vaccination; 
+ME0001; MERV; VC1; DM; Completed Vaccination; 
+HI0002; HIHI; VC2; AF; New Patient; 
+CI0003; CIBAI; VC1; BV; New Patient; 
+DI0004; DIAO; VC1; DM; Completed 1 dose; 
+JF0005; JFJJFJFE; VC2; EC; New Patient; 
+YO0006; YONG; VC2; CZ; New Patient; 
+AH0007; AHAHAHAH; VC1; AF; New Patient; 
+OK0008; OK; VC2; DM; New Patient; 
+NI0009; NIAMA; VC2; CZ; New Patient; 
+HE0010; HELLO; VC1; AF; Completed Vaccination; 
+GA0011; GAGAGGAA; VC2; BV; New Patient; 
+FU0012; FUCK; VC1; AF; New Patient; 
+PU0013; PUKI; VC2; BV; New Patient; 
+RI0014; RIRIRIRR; VC2; EC; New Patient; 
+JK0015; JK; VC1; DM; New Patient; 
